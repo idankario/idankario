@@ -29,8 +29,10 @@
 <img align="left" style="padding-right:10px;" src="https://docs.mapbox.com/help/demos/custom-markers-gl-js/mapbox-icon.png" width="30">
 <img align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30">
 <img align="left" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4" width="30">
-
-
+<img align="left" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" width="30">
+<img align="left" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/5009934?s=200&v=4" width="30">
+<img align="left" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/25158?s=200&v=4" width="30">
+<img align="left" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/21003710?s=200&v=4" width="30">
 
 
 
