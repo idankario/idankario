@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Idan Kario
-- 🔭 I’m currently working 
+- 🔭 I’m working 
 - 🤗 I’m a software engineer 
 - ⚡ Throughout my career, I have demonstrated a keen passion for driving positive change and implementing innovative solutions. 
 
